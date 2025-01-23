@@ -1,12 +1,192 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\rentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\rentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\updatemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\updatemovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\returnmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\returnmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\updatecostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\updatecostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\rentalheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\rentalheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\rentalmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\rentalmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\addcostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\addcostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|c:\\users\\user\\source\\repos\\webapplication1.api\\webapplication1.api\\models\\addmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546A0D61-41A0-4FB7-8893-0D07A4436C82}|WebApplication1.API\\WebApplication1.API.csproj|solutionrelative:webapplication1.api\\models\\addmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReturnMovie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\ReturnMovie.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\ReturnMovie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\ReturnMovie.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\ReturnMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:15:56.132Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCostumer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\UpdateCostumer.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\UpdateCostumer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\UpdateCostumer.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\UpdateCostumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:18:07.36Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateMovie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\UpdateMovie.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\UpdateMovie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\UpdateMovie.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\UpdateMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:21:23.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentalHeader.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\RentalHeader.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\RentalHeader.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\RentalHeader.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\RentalHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:07:09.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalMovie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\RentalMovie.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\RentalMovie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\RentalMovie.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\RentalMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:04:10.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\movie.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\movie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\movie.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:03:03.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "costumer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\costumer.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\costumer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\costumer.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\costumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:02:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\RentalDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\RentalDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\RentalDbContext.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\RentalDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:59:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddMovie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\AddMovie.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\AddMovie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\AddMovie.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\AddMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:57:38.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCostumer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\AddCostumer.cs",
+              "RelativeDocumentMoniker": "WebApplication1.API\\Models\\AddCostumer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1.API\\WebApplication1.API\\Models\\AddCostumer.cs",
+              "RelativeToolTip": "WebApplication1.API\\Models\\AddCostumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:45:25.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

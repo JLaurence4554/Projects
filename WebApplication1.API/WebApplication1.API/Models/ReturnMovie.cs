@@ -2,5 +2,6 @@
 {
     public class ReturnMovie
     {
+        public List<int> RentalID { get; set; }
     }
 }
